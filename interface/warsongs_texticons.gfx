@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_warsongs_text"
+		texturefile = "gfx/texticons/warsongs_text.dds"
+		legacy_lazy_load = no
+	}
+
+}

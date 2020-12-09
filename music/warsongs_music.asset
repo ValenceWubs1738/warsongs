@@ -1,0 +1,39 @@
+##Peacetime ###
+music = {
+	name = "Kyradeen_And_Mufaya_A_Lonely_Path"
+	file = "Kyradeen_And_Mufaya_A Lonely_Path.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Naturematthe_And_Michael_Picher_The_Pillars_of_Equestria"
+	file = "Naturematthe_And_Michael_Picher_The_Pillars_of_Equestria.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Osoch_A_Longing_Introspection"
+	file = "Osoch_A_Longing_Introspection.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Redspark_Thestrals_Approaching"
+	file = "Redspark_Thestrals_Approaching.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Wandering_Artist_Nocturne"
+	file = "Wandering_Artist_Nocturne.ogg"
+	volume = 0.9
+}
+
+
+###NLR-EQS war
+music = {
+	name = "Mufaya_Enraged_Forest"
+	file = "Mufaya_Enraged_Forest.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Radiarc_Of_Shadows_And_Nightmares"
+	file = "Radiarc_Of_Shadows_And_Nightmares.ogg"
+	volume = 0.9
+}

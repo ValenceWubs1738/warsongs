@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_warsongs_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//warsongs_album_art.dds"
+		noOfFrames = 2
+	}
+}	

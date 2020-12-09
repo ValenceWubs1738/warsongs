@@ -1,0 +1,17 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_warsongs_faceplate"
+		textureFile = "gfx/interface/warsongs_faceplate.dds"
+	}		
+	
+    spriteType = {
+		name = "GFX_scroll_drager_wood" 		
+		textureFile = "gfx//interface//scroll_drager_wood.dds"
+	}			
+
+	spriteType = {
+		name = "GFX_button_overlay" 		
+		textureFile = "gfx//interface//topbar//musicplayer//button_overlay.dds"
+	}	
+}

@@ -1,0 +1,143 @@
+music_station = "warsongs"
+
+##### Equestria Peace ######
+
+music = {
+	song = "Naturematthe_And_Michael_Picher_The_Pillars_of_Equestria"
+
+	chance = {
+		modifier = {
+			factor = 1.5
+			original_tag = EQS
+			has_completed_focus = unicorn_academy_f
+		}
+		modifier ={
+			factor = 1.5
+			original_tag = NLR
+			has_completed_focus = NLR_unicorn_academy_f
+}		
+		modifier = {
+			factor = 3
+			original_tag = YAL
+		}
+	}
+}
+
+###NLR
+music = {
+	song = "Mufaya_Enraged_Forest"
+
+	chance = {
+
+		modifier = {
+			factor = 2
+			OR = {
+				AND = {
+					OR = {
+						original_tag = NLR
+						original_tag = NMS
+					}
+					OR = {
+						has_war_with = EQS
+						has_war_with = CES
+					}
+				}
+				AND = {
+					OR = {
+						original_tag = EQS
+						original_tag = CES
+					}
+					OR = {
+						has_war_with = NLR
+						has_war_with = NMS
+					}
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "Wandering_Artist_Nocturne"
+
+	chance = {
+
+		modifier = {
+			factor = 2
+			has_war = no 
+			AND = {
+				OR ={
+				original_tag = NLR
+				original_tag = NMS
+				}
+			}
+		}
+	}
+}	
+music = {
+	song = "Redspark_Thestrals_Approaching"
+
+	chance = {
+
+		modifier = {
+			factor = 2
+			has_war = yes 
+			AND = {
+				OR ={
+				original_tag = NLR
+				original_tag = NMS
+				}
+			}
+		}
+	}		
+}	
+music = {
+	song = "Radiarc_Of_Shadows_And_Nightmares"
+
+	chance = {
+
+		modifier = {
+			factor = 3
+			has_war = yes 
+			AND = {
+				OR ={
+				original_tag = NLR
+				original_tag = NMS
+				}
+			}
+		}
+	}		
+}	
+music = {
+	song = "Osoch_A_Longing_Introspection"
+
+	chance = {
+
+		modifier = {
+			factor = 2
+			has_war = no 
+			AND = {
+				OR ={
+				original_tag = NLR
+				original_tag = NMS
+				}		
+			}	
+		}
+	}
+}		
+music = {
+	song = "Kyradeen_And_Mufaya_A_Lonely_Path"
+
+	chance = {
+
+		modifier = {
+			factor = 2
+			has_war = no 
+			AND = {
+				OR ={
+				original_tag = NLR
+				original_tag = NMS
+				}
+			}
+		}
+	}		
+}	
