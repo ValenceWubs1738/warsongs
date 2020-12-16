@@ -1,16 +1,16 @@
-guiTypes = {	
+guiTypes = {
 	containerWindowType = {
-		name = "base_music_faceplate"
-		position = { x =0 y=0 }
+		name = "classic_faceplate"
+		position = { x=0 y=0 }
 		size = { width = 590 height = 46 }
-		
+
 		iconType ={
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
 			alwaystransparent = yes
 		}
-
+		
 		instantTextboxType = {
 			name = "track_name"
 			position = { x = 73 y = 20 }
@@ -115,17 +115,16 @@ guiTypes = {
 			Orientation = "LOWER_LEFT"
 			clicksound = click_close
 		}
-		
 	}
 
 	containerWindowType={
-		name = "base_music_stations_entry"
+		name = "classic_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_base_game_album_art"
+			quadTextureSprite = "GFX_classic_album_art"
 			clicksound = decisions_ui_button
 		}
 	}
