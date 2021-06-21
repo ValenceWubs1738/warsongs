@@ -140,4 +140,82 @@ music = {
 			}
 		}
 	}		
-}	
+}
+music = {
+	song = "Wandering_Artist_Fire_City"
+
+	chance = {
+
+		modifier = {
+			factor = 2
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "Ethan_Toavs_Mare_Nostrum"
+
+	chance = {
+
+		modifier = {
+			factor = 3
+			original_tag = SIC
+		}
+		modifier = {
+			factor = 3
+			original_tag = HIP
+		}
+		modifier = {
+			factor = 3
+			original_tag = FEA
+		}
+		modifier = {
+			factor = 3
+			original_tag = TRD
+		}
+	}
+}
+music = {
+	song = "Zephysonas_And_Kyradeen_Starlight_Sanctuary"
+
+	chance = {
+
+		modifier = {
+			factor = 2 
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "Lutarifan_Where_The_Heart_Is"
+
+	chance = {
+
+		modifier = {
+			factor = 2 
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "Frozen_Night_Through_An_Infinite_Dreamscape"
+
+	chance = {
+
+		modifier = {
+			factor = 2 
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "Redspark_Through_The_Currents"
+
+	chance = {
+
+		modifier = {
+			factor = 2 
+			has_war = no
+		}
+	}
+}

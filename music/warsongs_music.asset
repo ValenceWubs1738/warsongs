@@ -37,3 +37,43 @@ music = {
 	file = "Radiarc_Of_Shadows_And_Nightmares.ogg"
 	volume = 0.9
 }
+
+# Volume 2 #
+
+music = {
+	name = "Wandering_Artist_Fire_City"
+	file = "Wandering_Artist_Fire_City.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "Ethan_Toavs_Mare_Nostrum"
+	file = "Ethan_Toavs_Mare_Nostrum.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "Zephysonas_And_Kyradeen_Starlight_Sanctuary"
+	file = "Zephysonas_And_Kyradeen_Starlight_Sanctuary.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "Lutarifan_Where_The_Heart_Is"
+	file = "Lutarifan_Where_The_Heart_Is.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "Frozen_Night_Through_An_Infinite_Dreamscape"
+	file = "Frozen_Night_Through_An_Infinite_Dreamscape.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "Redspark_Through_The_Currents"
+	file = "Redspark_Through_The_Currents.ogg"
+	volume = 0.9
+}
+
+
