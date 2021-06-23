@@ -1,4 +1,4 @@
-name="Warsongs - Beta"
+name="Warsongs"
 tags={
 	"Alternative History"
 	"Music"
